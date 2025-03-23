@@ -1,0 +1,12 @@
+C:\Users\santi\OneDrive\Escritorio\EPS_6-8\EPS\lib_presentaciones\bin\Debug\net8.0\lib_presentaciones.deps.json
+C:\Users\santi\OneDrive\Escritorio\EPS_6-8\EPS\lib_presentaciones\bin\Debug\net8.0\lib_presentaciones.dll
+C:\Users\santi\OneDrive\Escritorio\EPS_6-8\EPS\lib_presentaciones\bin\Debug\net8.0\lib_presentaciones.pdb
+C:\Users\santi\OneDrive\Escritorio\EPS_6-8\EPS\lib_presentaciones\obj\Debug\net8.0\lib_presentaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\OneDrive\Escritorio\EPS_6-8\EPS\lib_presentaciones\obj\Debug\net8.0\lib_presentaciones.AssemblyInfoInputs.cache
+C:\Users\santi\OneDrive\Escritorio\EPS_6-8\EPS\lib_presentaciones\obj\Debug\net8.0\lib_presentaciones.AssemblyInfo.cs
+C:\Users\santi\OneDrive\Escritorio\EPS_6-8\EPS\lib_presentaciones\obj\Debug\net8.0\lib_presentaciones.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Escritorio\EPS_6-8\EPS\lib_presentaciones\obj\Debug\net8.0\lib_presentaciones.sourcelink.json
+C:\Users\santi\OneDrive\Escritorio\EPS_6-8\EPS\lib_presentaciones\obj\Debug\net8.0\lib_presentaciones.dll
+C:\Users\santi\OneDrive\Escritorio\EPS_6-8\EPS\lib_presentaciones\obj\Debug\net8.0\refint\lib_presentaciones.dll
+C:\Users\santi\OneDrive\Escritorio\EPS_6-8\EPS\lib_presentaciones\obj\Debug\net8.0\lib_presentaciones.pdb
+C:\Users\santi\OneDrive\Escritorio\EPS_6-8\EPS\lib_presentaciones\obj\Debug\net8.0\ref\lib_presentaciones.dll
