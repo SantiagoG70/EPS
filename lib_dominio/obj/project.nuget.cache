@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dOgIGTP6q4Y=",
+  "dgSpecHash": "uparEm9bTw8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\santi\\OneDrive\\Escritorio\\EPS_6-8\\EPS\\lib_dominio\\lib_dominio.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\santi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.14\\microsoft.windowsdesktop.app.ref.8.0.14.nupkg.sha512",
-    "C:\\Users\\santi\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.14\\microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
-    "C:\\Users\\santi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.14\\microsoft.aspnetcore.app.ref.8.0.14.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\joset\\Documents\\Universidad\\EPS\\lib_dominio\\lib_dominio.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

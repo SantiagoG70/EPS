@@ -8,5 +8,10 @@ namespace lib_dominio.Entidades
 {
     class Regimens
     {
+        public int Id { get; set; }
+        public string? Nombre { get; set; }
+
+        public List<Pacientes>? pacientes { get; set; }
+
     }
 }

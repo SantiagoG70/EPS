@@ -10,3 +10,15 @@ C:\Users\santi\OneDrive\Escritorio\EPS_6-8\EPS\lib_dominio\obj\Debug\net8.0\lib_
 C:\Users\santi\OneDrive\Escritorio\EPS_6-8\EPS\lib_dominio\obj\Debug\net8.0\refint\lib_dominio.dll
 C:\Users\santi\OneDrive\Escritorio\EPS_6-8\EPS\lib_dominio\obj\Debug\net8.0\lib_dominio.pdb
 C:\Users\santi\OneDrive\Escritorio\EPS_6-8\EPS\lib_dominio\obj\Debug\net8.0\ref\lib_dominio.dll
+C:\Users\joset\Documents\Universidad\EPS\lib_dominio\bin\Debug\net8.0\lib_dominio.deps.json
+C:\Users\joset\Documents\Universidad\EPS\lib_dominio\bin\Debug\net8.0\lib_dominio.dll
+C:\Users\joset\Documents\Universidad\EPS\lib_dominio\bin\Debug\net8.0\lib_dominio.pdb
+C:\Users\joset\Documents\Universidad\EPS\lib_dominio\obj\Debug\net8.0\lib_dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joset\Documents\Universidad\EPS\lib_dominio\obj\Debug\net8.0\lib_dominio.AssemblyInfoInputs.cache
+C:\Users\joset\Documents\Universidad\EPS\lib_dominio\obj\Debug\net8.0\lib_dominio.AssemblyInfo.cs
+C:\Users\joset\Documents\Universidad\EPS\lib_dominio\obj\Debug\net8.0\lib_dominio.csproj.CoreCompileInputs.cache
+C:\Users\joset\Documents\Universidad\EPS\lib_dominio\obj\Debug\net8.0\lib_dominio.sourcelink.json
+C:\Users\joset\Documents\Universidad\EPS\lib_dominio\obj\Debug\net8.0\lib_dominio.dll
+C:\Users\joset\Documents\Universidad\EPS\lib_dominio\obj\Debug\net8.0\refint\lib_dominio.dll
+C:\Users\joset\Documents\Universidad\EPS\lib_dominio\obj\Debug\net8.0\lib_dominio.pdb
+C:\Users\joset\Documents\Universidad\EPS\lib_dominio\obj\Debug\net8.0\ref\lib_dominio.dll
